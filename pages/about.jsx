@@ -81,7 +81,7 @@ The all-volunteer board is composed of past and present hosts, international stu
 					key: "board-meeting-jun",
 					name: "Board Meeting",
 					startDatetime: "2019-06-27 17:30",
-					date: "2019-06-27",
+					date: "2019-06-30",
 					location: "ISS Office"
 				},
 				{
